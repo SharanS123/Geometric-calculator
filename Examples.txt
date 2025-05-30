@@ -1,0 +1,14 @@
+1. p1 = Point(10, 10)
+   p2 = Point(20, 20)
+   p1.distance(p2)
+
+2. l1 = Line(p1, p2)
+   l1.length()
+
+3. c1 = Circle(p1, 5)
+   c1.area()
+   c1.circumference()
+
+4. r1 = Rectangle(p2, 4, 6)
+   r1.area()
+   r1.perimeter()
